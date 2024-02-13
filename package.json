@@ -1,8 +1,8 @@
 {
-  "name": "plebchan",
+  "name": "AcidChan",
   "version": "0.1.17",
-  "description": "A GUI for plebbit similar to 4chan",
-  "author": "plebeius.eth",
+  "description": "A GUI for acid.info similar to 4chan",
+  "author": "acid.info",
   "private": true,
   "dependencies": {
     "@babel/core": "7.21.3",
