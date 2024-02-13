@@ -93,7 +93,7 @@
   "main": "electron/main.js",
   "build": {
     "appId": "plebchan.desktop",
-    "productName": "plebchan",
+    "productName": "AcidChan",
     "beforePack": "electron/before-pack.js",
     "afterAllArtifactBuild": "electron/after-all-artifact-build.js",
     "extraResources": [
