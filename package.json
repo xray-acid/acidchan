@@ -1,7 +1,7 @@
 {
   "name": "AcidChan",
   "version": "0.1.17",
-  "description": "A GUI for acid.info similar to 4chan",
+  "description": "A permissionless adminless decentralized culture",
   "author": "acid.info",
   "private": true,
   "dependencies": {
