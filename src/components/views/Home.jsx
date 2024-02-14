@@ -146,7 +146,7 @@ const Home = () => {
     <>
       <CreateBoardModal selectedStyle={selectedStyle} isOpen={isCreateBoardOpen} closeModal={() => setIsCreateBoardOpen(false)} />
       <Helmet>
-        <title>plebchan</title>
+        <title>AcidChan</title>
       </Helmet>
       <Container>
         <Tooltip id='tooltip' className='tooltip' />
@@ -161,7 +161,7 @@ const Home = () => {
           <Search>
             <input
               type='text'
-              placeholder='"board.eth" or "12D3KooW..."'
+              placeholder='"free your mind" or "12D3KooW..."'
               ref={inputRef}
               onKeyDown={(event) => {
                 if (event.key === 'Enter') {
@@ -193,11 +193,11 @@ const Home = () => {
             <AboutContent>
               <div id='content'>
                 <p>
-                  Plebchan is a serverless, adminless, decentralized 4chan alternative where any pleb can create and own unlimited boards. All data comes from the 
+                  Plebchan is a serverless, adminless, decentralized 4chan alternative where anyone can create and own unlimited boards. All data comes from the 
                   <a href='https://plebbit.com' target='_blank' rel='noreferrer'>
-                    plebbit
+                    Logos Stack, using Waku and Codex
                   </a>{' '}
-                  protocol, it's all text including links from which media is embedded, shared peer-to-peer. Users do not need to register an account before participating
+                  protocols, it's all text including links from which media is embedded, shared peer-to-peer. Users do not need to register an account before participating
                   in the community. Feel free to click on a board below that interests you and jump right in!{' '}
                 </p>
                 <br />
