@@ -188,7 +188,7 @@ const Home = () => {
           </Search>
           <About>
             <AboutTitle>
-              <h2>What is plebchan?</h2>
+              <h2>What is AcidChan?</h2>
             </AboutTitle>
             <AboutContent>
               <div id='content'>
