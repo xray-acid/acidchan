@@ -193,7 +193,7 @@ const Home = () => {
             <AboutContent>
               <div id='content'>
                 <p>
-                  Plebchan is a serverless, adminless, decentralized 4chan alternative where anyone can create and own unlimited boards. All data comes from the 
+                  AcidChan is a serverless, adminless, decentralized alternative culture where anyone can create and own unlimited boards. All data comes from the 
                   <a href='https://plebbit.com' target='_blank' rel='noreferrer'>
                     Logos Stack, using Waku and Codex
                   </a>{' '}
